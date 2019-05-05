@@ -10,7 +10,6 @@ const mediaStreamConstraints = {
         fixed: 320
     }
   },
-  audio: true,
 };
 
 // Video element where stream will be placed.
