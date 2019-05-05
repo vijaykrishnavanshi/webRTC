@@ -5,3 +5,5 @@
 ## Purpose of this repository
 
 I have created this repository to try out and create a video streaming service. Aim is to understanding the internal working of streaming services.
+
+**Source**: <https://codelabs.developers.google.com/codelabs/webrtc-web/>
